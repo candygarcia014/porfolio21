@@ -59,7 +59,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'friends.JPG',
     title: 'Friends Trivia Game',
-    info: 'This fun and challenging game provides the player with an array of 8 questions to answer in 20 seconds. The game is scored at the end ',
+    info: 'This fun and challenging game provides the player with an array of 8 questions to answer in 20 seconds. The game is scored at the end',
     // info2: '',
     url: 'https://candygarcia014.github.io/friends-trivia-quiz/',
     repo: 'https://github.com/candygarcia014/friends-trivia-quiz', // if no repo, the button will not show up
@@ -68,7 +68,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'fitnesstracker.JPG',
     title: 'Fitness Tracker',
-    // info: '',
+    info: 'Track your workouts effectiveness with this tracker.',
     // info2: '',
     url: 'https://fitness-tracker-hw1717.herokuapp.com/?id=6005447b194e1d001795f387',
     repo: 'https://github.com/candygarcia014/fitness-tracker', // if no repo, the button will not show up
@@ -77,7 +77,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'notetaker.JPG',
     title: 'Note Taker App',
-    // info: '',
+    info: 'This note taker app helps the user keep track of daily tasks',
     // info2: '',
     url: 'https://mysterious-wave-81993.herokuapp.com/',
     repo: 'https://github.com/candygarcia014/awesome-note-taker', // if no repo, the button will not show up
